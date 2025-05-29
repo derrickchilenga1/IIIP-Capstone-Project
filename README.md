@@ -53,13 +53,13 @@ The dataset includes the following features:
 ## Dashboard Link
 
 Explore the interactive churn prediction dashboard:
-
-https://iipcapstoneprojectg1gamma-vjvcyqtuxzmpszpufisrtb.streamlit.app/
+https://iiip-capstone-project-el9hcnbsrywxzy9nqezu5p.streamlit.app/
 
 ## Author
 
-Charmaine Aurette O. A. Yebadokpo  
-AI & Data Science Enthusiast
+Derrick Chilenga
+
+ML, AI & Data Analyst Enthusiast
 
 ## License
 
